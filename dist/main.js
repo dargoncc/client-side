@@ -1,0 +1,1 @@
+(()=>{"use strict";document.title="lison-s"})();
